@@ -1,0 +1,12 @@
+div.content{
+    display: grid;
+    grid-template-columns: 330px 330px 330px;
+    column-gap: 10px;
+    height: 300px;
+}
+.first{
+    background-color: aqua;
+    color: blue;
+    border-style: solid;
+    border-color: black;
+}
