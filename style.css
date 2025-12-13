@@ -10,3 +10,9 @@ div.content{
     border-style: solid;
     border-color: black;
 }
+.second{
+    background-color: rgb(255, 0, 217);
+    color: blue;
+    border-style: solid;
+    border-color: black;
+}
