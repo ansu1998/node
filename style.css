@@ -9,16 +9,25 @@ div.content{
     color: blue;
     border-style: solid;
     border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
 }
 .second{
     background-color: rgb(255, 0, 217);
     color: blue;
     border-style: solid;
     border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
 }
 .third{
    background-color: #00ff1e;
    color: blue; 
    border-style: solid; 
    border-color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center ;
 }
