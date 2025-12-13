@@ -16,3 +16,9 @@ div.content{
     border-style: solid;
     border-color: black;
 }
+.third{
+   background-color: #00ff1e;
+   color: blue; 
+   border-style: solid; 
+   border-color: black;
+}
