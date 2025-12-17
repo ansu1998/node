@@ -31,3 +31,18 @@ div.content{
    justify-content: center;
    align-items: center ;
 }
+
+div.navbar{
+    height: 60px;
+    width: 1000px;
+    border-style: double;
+    border-color: blue;
+    border-radius: 10px;
+    background-color: grey;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+div.home{
+    padding-left: 50px;
+}
+
